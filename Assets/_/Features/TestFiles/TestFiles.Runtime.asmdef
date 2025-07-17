@@ -1,7 +1,9 @@
 {
-    "name": "Facts.Runtime",
-    "rootNamespace": "Facts.Runtime",
-    "references": [],
+    "name": "TestFiles.Runtime",
+    "rootNamespace": "TestFiles.Runtime",
+    "references": [
+        "GUID:cb9c3045f4ef46f4aa3930c72c0c8175"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

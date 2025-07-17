@@ -1,6 +1,6 @@
 {
-    "name": "Template.Runtime",
-    "rootNamespace": "Template.Runtime",
+    "name": "GameData.Runtime",
+    "rootNamespace": "GameData.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
